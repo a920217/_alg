@@ -1,6 +1,5 @@
-這是AI對話網址(https://gemini.google.com/share/b982d91f2b31)
+這是AI對話網址(https://gemini.google.com/share/b982d91f2b31)<br>
 共通點:無論是查表法還是動態規劃，最核心的遞迴公式都是：$$C(n, k) = C(n-1, k-1) + C(n-1, k)<br>
-
 差異:
 | 特性 | 查表法（通常指記憶化遞迴） | 動態規劃（Bottom-up） |
 |---|---|---|
